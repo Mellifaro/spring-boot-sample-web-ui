@@ -74,7 +74,7 @@
 	</build>
 	<distributionManagement>
 		<snapshotRepository>
-			<id>deployment</id>
+			<id>spring-ui</id>
 			<name>spring-ui</name>
 			<url>http://192.168.99.100:8081/nexus/content/repositories/spring-ui/</url>
 		</snapshotRepository>
