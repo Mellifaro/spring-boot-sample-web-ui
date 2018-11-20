@@ -76,7 +76,7 @@
 		<snapshotRepository>
 			<id>spring-ui</id>
 			<name>spring-ui</name>
-			<url>http://localhost:8081/nexus/content/repositories/spring-ui/</url>
+			<url>http://http://10.24.9.52:8081/nexus/content/repositories/spring-ui/</url>
 		</snapshotRepository>
 	</distributionManagement>
 </project>
